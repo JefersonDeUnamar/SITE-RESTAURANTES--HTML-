@@ -1,2 +1,2 @@
 # SITE-RESTAURANTES--CSS-
-Site feito em sala apenas com HTML
+Site feito em sala COM html e CSS
